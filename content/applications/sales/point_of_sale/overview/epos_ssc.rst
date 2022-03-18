@@ -26,6 +26,7 @@ certificate is necessary to use your printer.
    - TM-U220-i
    - TM-m10
    - TM-m30
+   - TM-m30-ii
    - TM-P20 (Wi-Fi® model)
    - TM-P60II (Receipt: Wi-Fi® model)
    - TM-P60II (Peeler: Wi-Fi® model)
